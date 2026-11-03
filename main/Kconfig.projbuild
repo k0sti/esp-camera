@@ -1,0 +1,10 @@
+menu "Camera uploader"
+
+    config CAM_SERVER_URL
+        string "Upload URL"
+        default "http://192.168.1.206:8080/upload"
+        help
+            Where captured images are POSTed. A "server:" line in wifi.txt
+            overrides this.
+
+endmenu

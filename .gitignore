@@ -1,0 +1,10 @@
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+captures/
+result
+images/
+wifi.txt
+.cache/
