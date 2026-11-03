@@ -132,3 +132,7 @@ flake.nix        development environment
 - 2560-pixel-wide OV5640 modes produce corrupt frames, so the largest offered
   size is 2048×1536.
 - Throughput depends heavily on 2.4 GHz Wi-Fi conditions.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
